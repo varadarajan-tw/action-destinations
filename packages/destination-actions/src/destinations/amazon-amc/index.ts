@@ -21,7 +21,7 @@ const destination: AudienceDestinationDefinition<Settings, AudienceSettings> = {
     fields: {
       region: {
         label: 'Region',
-        description: 'Region for API Endpoint, either NA, EU, FE.',
+        description: 'Region for API Endpoints, either NA, EU, FE.',
         choices: [
           { label: 'North America (NA)', value: 'https://advertising-api.amazon.com' },
           { label: 'Europe (EU)', value: 'https://advertising-api-eu.amazon.com' },
