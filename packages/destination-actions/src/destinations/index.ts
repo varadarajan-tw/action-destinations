@@ -176,6 +176,8 @@ register('66b1f528d26440823fb27af9', './webhook-extensible')
 register('66ba235ecfcfee29bab517ce', './dawn')
 register('66ba237845b93b71bca2713e', './topsort')
 register('66c492a35a05977266a4a5c4', './delivrai-activate')
+register('abasfdsafa', './actions-bot-test-destination')
+
 
 function register(id: MetadataId, destinationPath: string) {
   // eslint-disable-next-line @typescript-eslint/no-var-requires
