@@ -4,8 +4,8 @@ import type { Settings } from './generated-types'
 import testAction from './testAction'
 
 const destination: DestinationDefinition<Settings> = {
-  name: 'Actions Bot Test Destination - 4',
-  slug: 'actions-actions-bot-test-destination-4',
+  name: 'Actions Bot Test Destination - 5 - demo',
+  slug: 'actions-actions-bot-test-destination-5-demo',
   mode: 'cloud',
   actions: {
     testAction
