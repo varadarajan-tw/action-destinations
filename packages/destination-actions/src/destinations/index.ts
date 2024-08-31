@@ -178,6 +178,8 @@ register('66ba237845b93b71bca2713e', './topsort')
 register('66c492a35a05977266a4a5c4', './delivrai-activate')
 register('66cc766ef4b1c152177239a0', './reddit-conversions-api')
 register('66cc76e29693c9e5591bf029', './nextdoor-capi')
+register('66d3045a76fa8a08de4b32f7', './actions-bot-test-destination')
+
 
 function register(id: MetadataId, destinationPath: string) {
   // eslint-disable-next-line @typescript-eslint/no-var-requires
